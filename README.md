@@ -12,12 +12,13 @@ I’m passionate about defending digital landscapes and uncovering vulnerabiliti
 Cybersecurity & IT Support
 
 ### 🚀 Top Skills
-- SIEM & Threat Detection (Sentinel, Defense)
-- Penetration Testing (Burp Suite, Nmap)
+- SIEM & Threat Detection (Sentinel, Defense,Snort, OpenVAS,Wazuh,Splunk, VirusTotal)
+- Penetration Testing (Burp Suite, Nmap, Nessus, Burp Suite, Caido, Wireshark)
 
 ### 🌟 Featured Projects
 - **SIEM Installation:** Deployed and configured Wazuh for enterprise-level security monitoring
 - **Capstone:** Real-world penetration testing project as a dedicated pen tester
+- **Digital Forensic - Diving into investigation of Memory File Dumps using (Autopsy, OSINT, FTK)
 
 ---
 
