@@ -16,9 +16,11 @@ Cybersecurity & IT Support
 - Penetration Testing (Burp Suite, Nmap, Nessus, Burp Suite, Caido, Wireshark)
 
 ### 🌟 Featured Projects
+- **Software Application Develop: Full Project was written in C# and Python for Kainga Real Estate Company
 - **SIEM Installation:** Deployed and configured Wazuh for enterprise-level security monitoring
 - **Capstone:** Real-world penetration testing project as a dedicated pen tester
 - **Digital Forensic - Diving into investigation of Memory File Dumps using (Autopsy, OSINT, FTK)
+- ** Pentesting - walkthrough
 
 ---
 
