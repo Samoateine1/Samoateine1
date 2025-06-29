@@ -20,7 +20,7 @@ Cybersecurity & IT Support
 - **SIEM Installation:** Deployed and configured Wazuh for enterprise-level security monitoring
 - **Capstone:** Real-world penetration testing project as a dedicated pen tester
 - **Digital Forensic - Diving into investigation of Memory File Dumps using (Autopsy, OSINT, FTK)
-- **Pentesting - walkthrough
+- **Pentesting - walkthrough labs 
 - **Python Programming - First project from programming days where my love for python language starts
 
 ---
