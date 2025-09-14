@@ -22,6 +22,8 @@ Cybersecurity & IT Support
 - **Digital Forensic - Diving into investigation of Memory File Dumps using (Autopsy, OSINT, FTK)
 - **Pentesting - walkthrough labs 
 - **Python Programming - First project from programming days where my love for python language starts
+- **KQL Language Learning the detective language for fun
+- **CyberLab Walkthrough - Diving into investigations of Blue Team using Wireshark, Hash, and more 
 
 ---
 
